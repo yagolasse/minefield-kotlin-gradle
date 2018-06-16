@@ -1,6 +1,6 @@
 # Campo Minado em Kotlin 
 
-[English Version](https://github.com/yagolasse/minefield-kotlin-gradle/blob/README.us.md)
+[English Version](https://github.com/yagolasse/minefield-kotlin-gradle/blob/master/README.us.md)
 
 Jogo de Campo Minado escrito em Kotlin para JVM
 

@@ -1,6 +1,6 @@
 # Kotlin Minefield
 
-[Versão em Portugês](https://github.com/yagolasse/minefield-kotlin-gradle/blob/README.br.md)
+[Versão em Portugês](https://github.com/yagolasse/minefield-kotlin-gradle/blob/master/README.br.md)
 
 This is as minefield written using Kotlin for JVM
 
